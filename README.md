@@ -1,4 +1,4 @@
-# Flutter Common Bottom Navigation Bar 
+# Flutter Common Bottom Navigation Bar made easy
 
 Check out the blog [Here](https://medium.com/@singhgursheesh12/common-bottom-navigation-bar-made-easy-flutter-199c9f683b29)
 
